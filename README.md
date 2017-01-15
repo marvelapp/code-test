@@ -12,5 +12,5 @@ This prototype, https://marvelapp.com/122ch4h/, shows how the app should work.
 * the minimum zoom should be 50%
 
 ## Implementation
-The app should be implemented in React. You are free to use any starter project or boilerplate and any library (except anything that already includes and image zoom component!). The only requirement is that we can checkout your repository and run `npm install` and `npm start`.
+The app should be implemented in React. You are free to use any starter project or boilerplate and any library (except anything that already includes an image zoom component!). The only requirement is that we can checkout your repository and run `npm install` and `npm start`.
 
