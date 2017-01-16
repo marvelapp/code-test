@@ -9,7 +9,6 @@ Don't worry about styling, we're more interested in correct functionality and th
 
 ## Specification
 * it should centre the image in the viewport
-* the image should be centred in the viewport
 * it should initially render the image at the zoom level that fits the image to the viewport, or 100% if the whole image fits
 * it should allow zooming in and out in 5% increments
 * it should zoom in to a maximum of 100%
