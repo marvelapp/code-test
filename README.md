@@ -3,7 +3,7 @@ The task is to create a simple image zoom app with React.
 
 It should take around 2-3 hours so please don't spend excessive amounts of time on it.
 
-This [prototype](https://marvelapp.com/122ch4h/) shows how the app might work.
+This [prototype](https://marvelapp.com/1gcfd93/) shows how the app might work.
 
 Don't worry about styling, we're more interested in correct functionality and the quality of the code.
 
