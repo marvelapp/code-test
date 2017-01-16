@@ -18,7 +18,7 @@ Don't worry about styling, we're more interested in correct functionality and th
 
 ## Sample images
 https://marvelapp.com/static/assets/images/onboarding/iphone6/Onboarding-invite.png
-https://marvelapp.com/static/assets/images/onboarding/web/01main.png
+https://marvelapp.com/static/assets/images/onboarding/web/Main-page.png
 https://marvelapp.com/static/assets/images/onboarding/ipad/Onboarding-location.png
 
 ## Implementation
