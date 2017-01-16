@@ -3,7 +3,7 @@ The task is to create a simple image zoom app with React.
 
 It should take around 2-3 hours so please don't spend excessive amounts of time on it.
 
-This [prototype](https://marvelapp.com/122ch4h/) shows how the app should work.
+This [prototype](https://marvelapp.com/122ch4h/) shows how the app might work.
 
 Don't worry about styling, we're more interested in correct functionality and the quality of the code.
 
@@ -16,8 +16,12 @@ Don't worry about styling, we're more interested in correct functionality and th
 * it should zoom out to a minimum of 50%
 * it should allow selection of any of the 3 sample images provided
 
+## Sample images
+https://marvelapp.com/static/assets/images/onboarding/iphone6/Onboarding-invite.png
+https://marvelapp.com/static/assets/images/onboarding/web/01main.png
+https://marvelapp.com/static/assets/images/onboarding/ipad/Onboarding-location.png
+
 ## Implementation
 The only stipulation is that you build the app in React (or a compatible library if you've been using, say, preact or inferno). Beyond that, you are free to use any library (except anything that already implements an image zoom component!).
 
-Please provide simlpe instructions with your submission on how to run your app.
-
+Please provide simple instructions with your submission on how to run your app.
