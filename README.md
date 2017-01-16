@@ -23,6 +23,6 @@ https://marvelapp.com/static/assets/images/onboarding/ipad/Onboarding-location.p
 ## Implementation
 The only stipulation is that you build the app in React (or a compatible library if you've been using, say, preact or inferno). Beyond that, you are free to use any library (except anything that already implements an image zoom component!).
 
-Please provide simple instructions with your submission on how to run your app.
-
 You can write tests for the app but it's not a requirement.
+
+To submit your solution either send us a link to a code repo or send us a zip file. Please provide simple instructions on how to run your app.
