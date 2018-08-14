@@ -8,7 +8,7 @@ This [prototype](https://marvelapp.com/1gcfd93/) shows how the app might work.
 Don't worry about styling, we're more interested in correct functionality and the quality of the code.
 
 ## Specification
-* it should use the Marvel GraphQL where to retrieve the project and it's images
+* it should use the Marvel GraphQL to retrieve the project and it's images. We will provide you with an account and login containing the project and it's images
 * it should centre each individual image in the viewport
 * it should initially render the image at the zoom level that fits the image, by width, to the viewport, or 100% of the image if the whole image width fits
 * it should allow zooming in and out in 5% increments of the image
