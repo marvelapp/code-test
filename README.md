@@ -9,7 +9,7 @@ Don't worry about styling, we're more interested in correct functionality and th
 
 You can reference our GraphQL documentation [here](https://marvelapp.com/developers/documentation/)
 
-You can get up and running using our developer key [here](https://marvelapp.com/oauth/devtoken) once you've logged the user you have been given for the test.
+You can get up and running using our developer key [here](https://marvelapp.com/oauth/devtoken) once you've logged in with the user you have been given for the test. You are welcome to use a GraphQL library of your choice.
 
 
 ## Specification
