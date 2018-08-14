@@ -13,7 +13,7 @@ You can get up and running using our developer key [here](https://marvelapp.com/
 
 
 ## Specification
-* it should use the Marvel GraphQL to retrieve the project named "Code Test" and it's images. We will provide you with an account and login containing the project and it's images
+* it should use the Marvel GraphQL to retrieve the project named "Code Test" and it's images. We will provide you with an account and login containing the project and it's images. You can retrieve a users projects using the following GraphQL query in our [documentation](https://marvelapp.com/developers/documentation/tutorials#get-a-users-projects)
 * it should centre each individual image in the viewport
 * it should initially render the image at the zoom level that fits the image, by width, to the viewport, or 100% of the image if the whole image width fits
 * it should allow zooming in and out in 5% increments of the image
